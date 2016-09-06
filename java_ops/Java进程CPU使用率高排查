@@ -1,0 +1,26 @@
+生产java应用，CPU使用率一直很高，经常达到100%，通过以下步骤完美解决，分享一下。
+
+1.jps 获取Java进程的PID。
+
+2.jstack pid >> java.txt 导出CPU占用高进程的线程栈。
+
+3.top -H -p PID 查看对应进程的哪个线程占用CPU过高。
+
+4.echo “obase=16; PID” | bc 将线程的PID转换为16进制。
+
+5.在第二步导出的Java.txt中查找转换成为16进制的线程PID。找到对应的线程栈。
+
+6.分析负载高的线程栈都是什么业务操作。优化程序并处理问题。
+
+抓取java内存heap
+jmap -dump:live,format=b,file=heap-`date +%Y%m%d%H%M`.bin `pgrep -u admin java`
+
+问题1：
+[root@qhfaxweb01 ~]# jstack 14553 > java.txt
+14553: Unable to open socket file: target process not responding or HotSpot VM not loaded
+The -F option can be used when the target process is not responding
+解决：
+jstack -F 14553 > java.txt
+
+[root@qhfaxweb01 ~]# echo "obase=16; 14555" | bc
+38DB
