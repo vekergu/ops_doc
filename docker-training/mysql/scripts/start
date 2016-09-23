@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#第一条命令执行错误之后，就会退出
+set -e
+
+#
+# When Startup Container script
+#
+#第一次配置后，第二次不会在操作这个配置
+if [[ -e /scripts/firstrun ]]; then
+	# config mariadb
+	/scripts/firstrun_maria
+    	rm /scripts/firstrun
+else
+	# Cleanup previous mariadb sockets
+	if [[ -e ${DATA_DIR}/mysql.sock ]]; then
+		rm -f ${DATA_DIR}/mysql.sock
+	fi
+fi
+
+exec /usr/bin/mysqld_safe
+
