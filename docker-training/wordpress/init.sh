@@ -138,4 +138,5 @@ if (!$mysql->query('CREATE DATABASE IF NOT EXISTS `' . $mysql->real_escape_strin
 $mysql->close();
 EOPHP
 
+#我执行了这个脚本，我会执行后面的这条指令
 exec "$@"
