@@ -13,6 +13,7 @@
 #http://python-guide-zh-cn.readthedocs.io/zh/latest/writing/structure.html#structure-is-key
 #--------------------how to import a model -------------------------------------------------------
 '''
+#structuring 机构化
 #Very bad
 [...]
 from pip import *
@@ -30,7 +31,7 @@ import pip
 x = pip.sqrt(4)  # sqrt is visibly part of modu's namespace
 '''
 
-#---------------------decorated  装饰器-----------------------------------------
+#---------------------decorated  装饰器 de co rate d-----------------------------------------
 def foo():
     pass
     # do something
