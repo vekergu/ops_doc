@@ -13,6 +13,9 @@
 # -*- coding: utf-8 -*-
 from __future__ import print_function
 import requests
+import yaml
+
+from format_converter import converter
 
 try:
     import json
@@ -66,15 +69,15 @@ class SaltAPI(object):
 
     def remote_noarg_execution(self,tgt,fun):
         ''' Execute commands without parameters '''
-        params = {'client': 'local', 'tgt': tgt, 'fun': fun}
+        params = {'client': 'local', 'tgt': tgt, 'fun': fun,'expr_form': 'list'}
         self.token_id()
         content = self.postRequest(params)
-        ret = content['return'][0][tgt]
+        ret = content['return'][0]
         return ret
 
     def remote_execution(self,tgt,fun,arg):
         ''' Command execution with parameters '''
-        params = {'client': 'local', 'tgt': tgt, 'fun': fun, 'arg': arg}
+        params = {'client': 'local', 'tgt': tgt, 'fun': fun, 'arg': arg,'expr_form': 'list'}
         self.token_id()
         content = self.postRequest(params)
         ret = content['return']
@@ -112,14 +115,27 @@ class SaltAPI(object):
         return jid
 
 def main():
-    sapi = SaltAPI(url='https://192.168.1.12:8000',username='nginx',password='nginx2016')
+    sapi = SaltAPI(url='http://192.168.1.12:8000',username='nginx',password='nginx2016')
     #sapi.token_id()
-    print('list all key:',sapi.list_all_key())
+    #print('list all key:',sapi.list_all_key())
     #sapi.delete_key('node01.qhxrl.com')
     #sapi.accept_key('test-01')
-    #sapi.deploy('test-01','nginx')
-    print(sapi.remote_noarg_execution('python01.qhxrl.com','grains.items'))
-    print(sapi.remote_execution('*','cmd.run','ls'))
+    #mm = sapi.deploy('python01.qhxrl.com',arg=['saltenv="base_init"','roles.common'])
+    #mm_key = mm['return'][0]['python01.qhxrl.com'].keys()
+    #for item in mm_key:
+        #print(item)
+
+    #yml = yaml.safe_dump(mm_key)
+    #print(yml)
+    #print(yaml.load(mm))
+
+    #print(sapi.remote_noarg_execution('python01.qhxrl.com','test.ping'))
+    #print(sapi.remote_noarg_execution('python01.qhxrl.com','test.ping'))
+    print(sapi.remote_noarg_execution([u'search',u'python01.qhxrl.com'],'test.ping'))
+
+   # print(sapi.remote_execution('*','cmd.run','ls'))
 
 if __name__ == '__main__':
     main()
+
+

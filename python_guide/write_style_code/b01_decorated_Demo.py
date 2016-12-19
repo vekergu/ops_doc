@@ -11,6 +11,26 @@
 #      History:
 #=============================================================================
 #代码参考自： http://www.cnblogs.com/rhcad/archive/2011/12/21/2295507.html
+
+#-------------------------装饰器最简模式------------------
+def deco(func):
+    func()
+def func():
+    pass
+myfunc = deco(func)
+myfunc()
+
+def deco(func):
+    def _func():
+        func()
+    return _func
+def func():
+    pass
+func = deco(func)
+func()
+
+
+
 #demo 1  ------作为引子
 print  "---------demo 01---------------------"
 def myfunc():
