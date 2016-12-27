@@ -12,6 +12,7 @@
 #=============================================================================
 
 #--------------------------------------还是反射--------------------------------
+#自省
 def Activator(request,viewfile,view,action,arg):
     namespace = __import__(viewfile)
     module = getattr(namespace.Views, view)
