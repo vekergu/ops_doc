@@ -1,0 +1,24 @@
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
+#=============================================================================
+#     FileName:
+#         Desc:
+#       Author: 白开水
+#        Email: vekergu@163.com
+#     HomePage: https://github.com/vekergu
+#      Version: 0.0.1
+#   LastChange: 
+#      History:
+#=============================================================================
+from __future__ import print_function
+'''
+题目：学习使用按位异或 ^ 。
+程序分析：0^0=0; 0^1=1; 1^0=1; 1^1=0
+'''
+
+if __name__ == "__main__":
+    a = 077
+    b = a ^ 3
+    print('The a ^ 3 = %d' %b)
+    b ^= 7
+    print('The a ^ b = %d' %b)
