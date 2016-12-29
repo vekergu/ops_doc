@@ -16,3 +16,8 @@ from __future__ import print_function
 程序分析：利用for循环控制100-999个数，每个数分解出个位，十位，百位。
 '''
 
+for item in range(100,10000):
+    str_item = str(item)
+    value = int(str_item[0])**3 + int(str_item[1])**3 + int(str_item[2])**3
+    if item == value:
+        print(item)
