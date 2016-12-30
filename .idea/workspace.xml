@@ -1,26 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35a114fc-fee0-4382-a967-748cca89d087" name="Default" comment="more and more">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/052-按位或.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/053-按位异或.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/054-位移.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/055-按位取反.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/056-画图-废.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/057-画图-直线-废.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/058-画图.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/059-画图.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/060-计算字符长度.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/061-杨辉三角.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/062-查找字符串.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/063-画图.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/064-画图.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/065-画图.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/066-大小排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/067-数组交换.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/068-整数移位.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/069-围圈.py" />
+    <list default="true" id="35a114fc-fee0-4382-a967-748cca89d087" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/070-字符串长度.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/071-input-output.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/072-创建一个列表.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/073-反向列表.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/074-两个列表.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/075-计算题.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/076-指针函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/077-循环列表.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/078-找年龄最大.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learn_python/python练习100题/079-字符串排序.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/052-按位或.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/052-按位或.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/053-按位异或.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/053-按位异或.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/054-位移.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/054-位移.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/055-按位取反.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/055-按位取反.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/056-画图-废.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/056-画图-废.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/057-画图-直线-废.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/057-画图-直线-废.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/058-画图.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/058-画图.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/059-画图.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/059-画图.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/060-计算字符长度.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/060-计算字符长度.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/061-杨辉三角.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/061-杨辉三角.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/062-查找字符串.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/062-查找字符串.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/063-画图.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/063-画图.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/064-画图.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/064-画图.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/065-画图.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/065-画图.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/066-大小排序.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/066-大小排序.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/067-数组交换.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/067-数组交换.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/068-整数移位.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/068-整数移位.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learn_python/python练习100题/069-围圈.py" afterPath="$PROJECT_DIR$/learn_python/python练习100题/069-围圈.py" />
     </list>
     <ignored path="ops_doc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,96 +45,103 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ops_doc$010_.coverage" NAME="010_生兔子 Coverage Results" MODIFIED="1482832564715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$.coverage" NAME="实时远程备份 Coverage Results" MODIFIED="1482395651807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/实例" />
     <SUITE FILE_PATH="coverage/ops_doc$055_.coverage" NAME="055-按位取反 Coverage Results" MODIFIED="1482982420420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$021_.coverage" NAME="021_猴子吃桃 Coverage Results" MODIFIED="1482904042664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$docopt_demo.coverage" NAME="docopt_demo Coverage Results" MODIFIED="1480659032295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/read_code/demo01" />
     <SUITE FILE_PATH="coverage/ops_doc$002.coverage" NAME="002 Coverage Results" MODIFIED="1482822255865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$042_auto.coverage" NAME="042-auto定义变量 Coverage Results" MODIFIED="1482974825693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$def_time.coverage" NAME="def_time Coverage Results" MODIFIED="1481521244159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/def" />
     <SUITE FILE_PATH="coverage/ops_doc$047_.coverage" NAME="047-变量值互换 Coverage Results" MODIFIED="1482976986859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$salt_event_demo02.coverage" NAME="salt_event_demo02 Coverage Results" MODIFIED="1481596988295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python/salt_event" />
-    <SUITE FILE_PATH="coverage/ops_doc$028_.coverage" NAME="028_年龄逻辑 Coverage Results" MODIFIED="1482913307352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$033_.coverage" NAME="033_逗号分隔列表 Coverage Results" MODIFIED="1482916547503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$event_simple.coverage" NAME="event_simple Coverage Results" MODIFIED="1480916251762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python/salt_event" />
-    <SUITE FILE_PATH="coverage/ops_doc$def_recursion.coverage" NAME="def_recursion Coverage Results" MODIFIED="1481093175068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/bulitin_func" />
-    <SUITE FILE_PATH="coverage/ops_doc$014_.coverage" NAME="014_分解质因数 Coverage Results" MODIFIED="1482888164195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$052_.coverage" NAME="052-按位或 Coverage Results" MODIFIED="1482980287349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$005.coverage" NAME="005 Coverage Results" MODIFIED="1482825656377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$re_bulitin.coverage" NAME="re_bulitin Coverage Results" MODIFIED="1480917628390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/bulitin_func" />
-    <SUITE FILE_PATH="coverage/ops_doc$045_1100.coverage" NAME="045-1到100之和 Coverage Results" MODIFIED="1482975435075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$078_.coverage" NAME="078-找年龄最大 Coverage Results" MODIFIED="1483066074360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$017_.coverage" NAME="017_统计字符串 Coverage Results" MODIFIED="1482891502310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$025_.coverage" NAME="025_累乘 Coverage Results" MODIFIED="1482908453721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$Unittest_TestDict_test_keyerror.coverage" NAME="Unittest TestDict.test_keyerror Coverage Results" MODIFIED="1482132020761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/unit_test/demo01" />
     <SUITE FILE_PATH="coverage/ops_doc$salt_connect.coverage" NAME="salt_connect Coverage Results" MODIFIED="1481701862719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python" />
     <SUITE FILE_PATH="coverage/ops_doc$024_.coverage" NAME="024_分子分母变化 Coverage Results" MODIFIED="1482906999144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$069_.coverage" NAME="069-围圈 Coverage Results" MODIFIED="1483006274520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$Unittests_in_004.coverage" NAME="Unittests in 004 Coverage Results" MODIFIED="1482825325219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$006.coverage" NAME="006 Coverage Results" MODIFIED="1482827841435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$def_base.coverage" NAME="def_base Coverage Results" MODIFIED="1480649350200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/def" />
+    <SUITE FILE_PATH="coverage/ops_doc$069_.coverage" NAME="069-围圈 Coverage Results" MODIFIED="1483059942647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$071_input_output.coverage" NAME="071-input-output Coverage Results" MODIFIED="1483062649412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$062_.coverage" NAME="062-查找字符串 Coverage Results" MODIFIED="1482992856971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$043_.coverage" NAME="043-模范静态变量 Coverage Results" MODIFIED="1482975119609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$030_.coverage" NAME="030_回文数 Coverage Results" MODIFIED="1482915078924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$Unittest_TestDict_test_attrerror.coverage" NAME="Unittest TestDict.test_attrerror Coverage Results" MODIFIED="1482130512661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/unit_test/demo01" />
-    <SUITE FILE_PATH="coverage/ops_doc$return_event.coverage" NAME="return_event Coverage Results" MODIFIED="1480905916624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python" />
     <SUITE FILE_PATH="coverage/ops_doc$Unittests_in_TestDict.coverage" NAME="Unittests in TestDict Coverage Results" MODIFIED="1482822579291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$saltapi_demo01.coverage" NAME="saltapi_demo01 Coverage Results" MODIFIED="1481700678117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python/salt_api" />
-    <SUITE FILE_PATH="coverage/ops_doc$066_.coverage" NAME="066-大小排序 Coverage Results" MODIFIED="1482994387409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$053_.coverage" NAME="053-按位异或 Coverage Results" MODIFIED="1482981769513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$040_.coverage" NAME="040-数组转变 Coverage Results" MODIFIED="1482973231066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$007.coverage" NAME="007 Coverage Results" MODIFIED="1482830504116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$unittest_base.coverage" NAME="unittest_base Coverage Results" MODIFIED="1482129729292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/unit_test" />
     <SUITE FILE_PATH="coverage/ops_doc$recursion_simple.coverage" NAME="recursion_simple Coverage Results" MODIFIED="1482805568103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/recursion" />
-    <SUITE FILE_PATH="coverage/ops_doc$037_.coverage" NAME="037-排序 Coverage Results" MODIFIED="1482918320820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$recursion_matrix.coverage" NAME="recursion_matrix Coverage Results" MODIFIED="1482811142345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/recursion" />
     <SUITE FILE_PATH="coverage/ops_doc$061_.coverage" NAME="061-杨辉三角 Coverage Results" MODIFIED="1482992199570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$019_.coverage" NAME="019_完数 Coverage Results" MODIFIED="1482895078381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$Unittest_TestDict_test_init.coverage" NAME="Unittest TestDict.test_init Coverage Results" MODIFIED="1482822734823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$023_.coverage" NAME="023_画星 Coverage Results" MODIFIED="1482906281672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$001.coverage" NAME="001 Coverage Results" MODIFIED="1482821875611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$map_and_list.coverage" NAME="map_and_list Coverage Results" MODIFIED="1481253419933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/def" />
-    <SUITE FILE_PATH="coverage/ops_doc$threading_simple.coverage" NAME="threading_simple Coverage Results" MODIFIED="1482462618245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/Threading_demo" />
-    <SUITE FILE_PATH="coverage/ops_doc$027_.coverage" NAME="027_反序 Coverage Results" MODIFIED="1482909751706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$034_.coverage" NAME="034-函数调用 Coverage Results" MODIFIED="1482916711514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$salt_cli.coverage" NAME="salt_cli Coverage Results" MODIFIED="1481764452973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python" />
     <SUITE FILE_PATH="coverage/ops_doc$L04.coverage" NAME="L04 Coverage Results" MODIFIED="1481878249118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python" />
-    <SUITE FILE_PATH="coverage/ops_doc$Unittest_TestDict_test_attr.coverage" NAME="Unittest TestDict.test_attr Coverage Results" MODIFIED="1482130087410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/unit_test/demo01" />
-    <SUITE FILE_PATH="coverage/ops_doc$socket_simple_server.coverage" NAME="socket_simple_server Coverage Results" MODIFIED="1482404359296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/socket" />
-    <SUITE FILE_PATH="coverage/ops_doc$015_.coverage" NAME="015_学习成绩分段 Coverage Results" MODIFIED="1482890042037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$020_.coverage" NAME="020_球落地 Coverage Results" MODIFIED="1482896735155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$050_.coverage" NAME="050-输出随机数 Coverage Results" MODIFIED="1482978895760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$Code_Style.coverage" NAME="Code_Style Coverage Results" MODIFIED="1480676298684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_guide/write_style_code" />
-    <SUITE FILE_PATH="coverage/ops_doc$012_.coverage" NAME="012_判断素数 Coverage Results" MODIFIED="1482887711637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$socket_simple_client.coverage" NAME="socket_simple_client Coverage Results" MODIFIED="1482404045523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/socket" />
     <SUITE FILE_PATH="coverage/ops_doc$event_montor.coverage" NAME="event_montor Coverage Results" MODIFIED="1480920903617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python/salt_event" />
-    <SUITE FILE_PATH="coverage/ops_doc$003.coverage" NAME="003 Coverage Results" MODIFIED="1482823085777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$logging_model_01.coverage" NAME="logging_model_01 Coverage Results" MODIFIED="1482399816395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/model" />
     <SUITE FILE_PATH="coverage/ops_doc$mod_base.coverage" NAME="mod_base Coverage Results" MODIFIED="1481524881658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/model" />
-    <SUITE FILE_PATH="coverage/ops_doc$060_.coverage" NAME="060-计算字符长度 Coverage Results" MODIFIED="1482982842689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$L03.coverage" NAME="L03 Coverage Results" MODIFIED="1481622353222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/model" />
-    <SUITE FILE_PATH="coverage/ops_doc$logging_model.coverage" NAME="logging_model Coverage Results" MODIFIED="1482399548645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/model" />
     <SUITE FILE_PATH="coverage/ops_doc$026_.coverage" NAME="026_递归求阶乘 Coverage Results" MODIFIED="1482908722859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$049_lambda.coverage" NAME="049-lambda函数 Coverage Results" MODIFIED="1482977686782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$067_.coverage" NAME="067-数组交换 Coverage Results" MODIFIED="1482997846759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$022_.coverage" NAME="022_乒乓球 Coverage Results" MODIFIED="1482905603417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$039_.coverage" NAME="039-插入数组 Coverage Results" MODIFIED="1482973056735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$035_.coverage" NAME="035-文本颜色 Coverage Results" MODIFIED="1482916899590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$salt_request.coverage" NAME="salt_request Coverage Results" MODIFIED="1481177220003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python/salt_api" />
     <SUITE FILE_PATH="coverage/ops_doc$041_.coverage" NAME="041-静态变量 Coverage Results" MODIFIED="1482973557209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$psutil_demo.coverage" NAME="psutil_demo Coverage Results" MODIFIED="1482119035181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dev_ops" />
     <SUITE FILE_PATH="coverage/ops_doc$054_.coverage" NAME="054-位移 Coverage Results" MODIFIED="1482982213936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$100.coverage" NAME="100 Coverage Results" MODIFIED="1482733555357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$029_.coverage" NAME="029_分解位数 Coverage Results" MODIFIED="1482913929812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$048_.coverage" NAME="048-数字比较 Coverage Results" MODIFIED="1482977234351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$016_.coverage" NAME="016_日期格式 Coverage Results" MODIFIED="1482890165327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$def_yield.coverage" NAME="def_yield Coverage Results" MODIFIED="1481254971048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/def" />
     <SUITE FILE_PATH="coverage/ops_doc$013_.coverage" NAME="013_水仙花数 Coverage Results" MODIFIED="1482835279563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
-    <SUITE FILE_PATH="coverage/ops_doc$Structuring_Your_Project.coverage" NAME="Structuring_Your_Project Coverage Results" MODIFIED="1480675363572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_guide/write_style_code" />
     <SUITE FILE_PATH="coverage/ops_doc$004.coverage" NAME="004 Coverage Results" MODIFIED="1482824972751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$077_.coverage" NAME="077-循环列表 Coverage Results" MODIFIED="1483065885131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$donot_todo.coverage" NAME="donot_todo Coverage Results" MODIFIED="1482922835299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_guide" />
-    <SUITE FILE_PATH="coverage/ops_doc$032_.coverage" NAME="032_反序列表 Coverage Results" MODIFIED="1482916396845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$051_.coverage" NAME="051-按位运算 Coverage Results" MODIFIED="1482980238063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$001__1_.coverage" NAME="001 (1) Coverage Results" MODIFIED="1482734593407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$.coverage" NAME="实时远程备份 Coverage Results" MODIFIED="1482395651807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/实例" />
+    <SUITE FILE_PATH="coverage/ops_doc$021_.coverage" NAME="021_猴子吃桃 Coverage Results" MODIFIED="1482904042664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$074_.coverage" NAME="074-两个列表 Coverage Results" MODIFIED="1483063051663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$def_time.coverage" NAME="def_time Coverage Results" MODIFIED="1481521244159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/def" />
+    <SUITE FILE_PATH="coverage/ops_doc$salt_event_demo02.coverage" NAME="salt_event_demo02 Coverage Results" MODIFIED="1481596988295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python/salt_event" />
+    <SUITE FILE_PATH="coverage/ops_doc$028_.coverage" NAME="028_年龄逻辑 Coverage Results" MODIFIED="1482913307352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$event_simple.coverage" NAME="event_simple Coverage Results" MODIFIED="1480916251762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python/salt_event" />
+    <SUITE FILE_PATH="coverage/ops_doc$def_recursion.coverage" NAME="def_recursion Coverage Results" MODIFIED="1481093175068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/bulitin_func" />
+    <SUITE FILE_PATH="coverage/ops_doc$014_.coverage" NAME="014_分解质因数 Coverage Results" MODIFIED="1482888164195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$052_.coverage" NAME="052-按位或 Coverage Results" MODIFIED="1482980287349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$005.coverage" NAME="005 Coverage Results" MODIFIED="1482825656377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$045_1100.coverage" NAME="045-1到100之和 Coverage Results" MODIFIED="1482975435075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$Unittests_in_004.coverage" NAME="Unittests in 004 Coverage Results" MODIFIED="1482825325219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$006.coverage" NAME="006 Coverage Results" MODIFIED="1482827841435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$def_base.coverage" NAME="def_base Coverage Results" MODIFIED="1480649350200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/def" />
+    <SUITE FILE_PATH="coverage/ops_doc$043_.coverage" NAME="043-模范静态变量 Coverage Results" MODIFIED="1482975119609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$075_.coverage" NAME="075-计算题 Coverage Results" MODIFIED="1483063771342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$030_.coverage" NAME="030_回文数 Coverage Results" MODIFIED="1482915078924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$Unittest_TestDict_test_attrerror.coverage" NAME="Unittest TestDict.test_attrerror Coverage Results" MODIFIED="1482130512661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/unit_test/demo01" />
+    <SUITE FILE_PATH="coverage/ops_doc$return_event.coverage" NAME="return_event Coverage Results" MODIFIED="1480905916624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python" />
+    <SUITE FILE_PATH="coverage/ops_doc$saltapi_demo01.coverage" NAME="saltapi_demo01 Coverage Results" MODIFIED="1481700678117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python/salt_api" />
+    <SUITE FILE_PATH="coverage/ops_doc$066_.coverage" NAME="066-大小排序 Coverage Results" MODIFIED="1482994387409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$053_.coverage" NAME="053-按位异或 Coverage Results" MODIFIED="1482981769513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$037_.coverage" NAME="037-排序 Coverage Results" MODIFIED="1482918320820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$recursion_matrix.coverage" NAME="recursion_matrix Coverage Results" MODIFIED="1482811142345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/recursion" />
+    <SUITE FILE_PATH="coverage/ops_doc$threading_simple.coverage" NAME="threading_simple Coverage Results" MODIFIED="1482462618245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/Threading_demo" />
+    <SUITE FILE_PATH="coverage/ops_doc$027_.coverage" NAME="027_反序 Coverage Results" MODIFIED="1482909751706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$Unittest_TestDict_test_attr.coverage" NAME="Unittest TestDict.test_attr Coverage Results" MODIFIED="1482130087410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/unit_test/demo01" />
+    <SUITE FILE_PATH="coverage/ops_doc$socket_simple_server.coverage" NAME="socket_simple_server Coverage Results" MODIFIED="1482404359296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/socket" />
+    <SUITE FILE_PATH="coverage/ops_doc$015_.coverage" NAME="015_学习成绩分段 Coverage Results" MODIFIED="1482890042037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$050_.coverage" NAME="050-输出随机数 Coverage Results" MODIFIED="1482978895760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$Code_Style.coverage" NAME="Code_Style Coverage Results" MODIFIED="1480676298684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_guide/write_style_code" />
+    <SUITE FILE_PATH="coverage/ops_doc$012_.coverage" NAME="012_判断素数 Coverage Results" MODIFIED="1482887711637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$076_.coverage" NAME="076-指针函数 Coverage Results" MODIFIED="1483065325758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$socket_simple_client.coverage" NAME="socket_simple_client Coverage Results" MODIFIED="1482404045523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/socket" />
+    <SUITE FILE_PATH="coverage/ops_doc$003.coverage" NAME="003 Coverage Results" MODIFIED="1482823085777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$logging_model_01.coverage" NAME="logging_model_01 Coverage Results" MODIFIED="1482399816395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/model" />
+    <SUITE FILE_PATH="coverage/ops_doc$060_.coverage" NAME="060-计算字符长度 Coverage Results" MODIFIED="1482982842689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$L03.coverage" NAME="L03 Coverage Results" MODIFIED="1481622353222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/model" />
+    <SUITE FILE_PATH="coverage/ops_doc$logging_model.coverage" NAME="logging_model Coverage Results" MODIFIED="1482399548645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/model" />
+    <SUITE FILE_PATH="coverage/ops_doc$049_lambda.coverage" NAME="049-lambda函数 Coverage Results" MODIFIED="1482977686782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$022_.coverage" NAME="022_乒乓球 Coverage Results" MODIFIED="1482905603417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$035_.coverage" NAME="035-文本颜色 Coverage Results" MODIFIED="1482916899590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$salt_request.coverage" NAME="salt_request Coverage Results" MODIFIED="1481177220003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/salt_python/salt_api" />
+    <SUITE FILE_PATH="coverage/ops_doc$100.coverage" NAME="100 Coverage Results" MODIFIED="1482733555357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$070_.coverage" NAME="070-字符串长度 Coverage Results" MODIFIED="1483061079883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$048_.coverage" NAME="048-数字比较 Coverage Results" MODIFIED="1482977234351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
+    <SUITE FILE_PATH="coverage/ops_doc$Structuring_Your_Project.coverage" NAME="Structuring_Your_Project Coverage Results" MODIFIED="1480675363572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_guide/write_style_code" />
+    <SUITE FILE_PATH="coverage/ops_doc$032_.coverage" NAME="032_反序列表 Coverage Results" MODIFIED="1482916396845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python/python练习100题" />
     <SUITE FILE_PATH="coverage/ops_doc$L01_base.coverage" NAME="L01_base Coverage Results" MODIFIED="1482743643208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_python" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -136,108 +153,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="063-画图.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/063-画图.py">
+      <file leaf-file-name="070-字符串长度.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/070-字符串长度.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="064-画图.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/064-画图.py">
+      <file leaf-file-name="071-input-output.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/071-input-output.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="065-画图.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/065-画图.py">
+      <file leaf-file-name="072-创建一个列表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/072-创建一个列表.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="066-大小排序.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/066-大小排序.py">
+      <file leaf-file-name="073-反向列表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/073-反向列表.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-              <folding>
-                <marker date="1482994384830" expanded="true" signature="423:453" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-                <marker date="1482994384830" expanded="true" signature="611:632" placeholder="..." />
-              </folding>
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="067-数组交换.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/067-数组交换.py">
+      <file leaf-file-name="074-两个列表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/074-两个列表.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-              <folding>
-                <marker date="1482994954085" expanded="true" signature="423:469" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-              </folding>
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="068-整数移位.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/068-整数移位.py">
+      <file leaf-file-name="075-计算题.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/075-计算题.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-              <folding>
-                <marker date="1482995097815" expanded="true" signature="423:470" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="069-围圈.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/069-围圈.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5341426">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="011_生兔子.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/011_生兔子.py">
+      <file leaf-file-name="076-指针函数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/076-指针函数.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="006_斐波那契.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/006_斐波那契.py">
+      <file leaf-file-name="077-循环列表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/077-循环列表.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm50/system/python_stubs/-925347366/__builtin__.py">
+      <file leaf-file-name="078-找年龄最大.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/078-找年龄最大.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3356" column="8" selection-start-line="3356" selection-start-column="8" selection-end-line="3356" selection-end-column="8" />
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="079-字符串排序.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/079-字符串排序.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45697328">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -262,16 +272,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/020_球落地.py" />
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/021_猴子吃桃.py" />
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/022_乒乓球.py" />
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/023_画星.py" />
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/024_分子分母变化.py" />
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/025_累乘.py" />
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/026_递归求阶乘.py" />
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/027_反序.py" />
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/028_年龄逻辑.py" />
-        <option value="$PROJECT_DIR$/learn_python/python练习100题/029_分解位数.py" />
         <option value="$PROJECT_DIR$/learn_python/python练习100题/030_回文数.py" />
         <option value="$PROJECT_DIR$/learn_python/python练习100题/031_判断星期几.py" />
         <option value="$PROJECT_DIR$/learn_python/python练习100题/032_反序列表.py" />
@@ -313,6 +313,16 @@
         <option value="$PROJECT_DIR$/learn_python/python练习100题/067-数组交换.py" />
         <option value="$PROJECT_DIR$/learn_python/python练习100题/068-整数移位.py" />
         <option value="$PROJECT_DIR$/learn_python/python练习100题/069-围圈.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/070-字符串长度.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/071-input-output.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/072-创建一个列表.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/073-反向列表.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/074-两个列表.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/075-计算题.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/076-指针函数.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/077-循环列表.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/078-找年龄最大.py" />
+        <option value="$PROJECT_DIR$/learn_python/python练习100题/079-字符串排序.py" />
       </list>
     </option>
   </component>
@@ -322,8 +332,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="831" />
-    <option name="width" value="1050" />
+    <option name="x" value="1002" />
+    <option name="width" value="931" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -490,7 +500,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../saltadmin" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -501,8 +511,8 @@
       <recent name="F:\PycharmProjects\ops_doc\learn_python\read_code\demo01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.069-围圈">
-    <configuration default="false" name="061-杨辉三角" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.078-找年龄最大">
+    <configuration default="false" name="074-两个列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -515,12 +525,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ops_doc" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/061-杨辉三角.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/074-两个列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="062-查找字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="075-计算题" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -533,12 +543,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ops_doc" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/062-查找字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/075-计算题.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="066-大小排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="076-指针函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -551,12 +561,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ops_doc" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/066-大小排序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/076-指针函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="067-数组交换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="077-循环列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -569,12 +579,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ops_doc" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/067-数组交换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/077-循环列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="069-围圈" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="078-找年龄最大" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -587,7 +597,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ops_doc" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/069-围圈.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python/python练习100题/078-找年龄最大.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -797,19 +807,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.061-杨辉三角" />
-      <item index="1" class="java.lang.String" itemvalue="Python.062-查找字符串" />
-      <item index="2" class="java.lang.String" itemvalue="Python.066-大小排序" />
-      <item index="3" class="java.lang.String" itemvalue="Python.067-数组交换" />
-      <item index="4" class="java.lang.String" itemvalue="Python.069-围圈" />
+      <item index="0" class="java.lang.String" itemvalue="Python.074-两个列表" />
+      <item index="1" class="java.lang.String" itemvalue="Python.075-计算题" />
+      <item index="2" class="java.lang.String" itemvalue="Python.076-指针函数" />
+      <item index="3" class="java.lang.String" itemvalue="Python.077-循环列表" />
+      <item index="4" class="java.lang.String" itemvalue="Python.078-找年龄最大" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.069-围圈" />
-        <item index="1" class="java.lang.String" itemvalue="Python.067-数组交换" />
-        <item index="2" class="java.lang.String" itemvalue="Python.066-大小排序" />
-        <item index="3" class="java.lang.String" itemvalue="Python.062-查找字符串" />
-        <item index="4" class="java.lang.String" itemvalue="Python.061-杨辉三角" />
+        <item index="0" class="java.lang.String" itemvalue="Python.078-找年龄最大" />
+        <item index="1" class="java.lang.String" itemvalue="Python.077-循环列表" />
+        <item index="2" class="java.lang.String" itemvalue="Python.076-指针函数" />
+        <item index="3" class="java.lang.String" itemvalue="Python.075-计算题" />
+        <item index="4" class="java.lang.String" itemvalue="Python.074-两个列表" />
       </list>
     </recent_temporary>
   </component>
@@ -914,7 +924,13 @@
       <option name="project" value="LOCAL" />
       <updated>1482979426525</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="more and more">
+      <created>1483006338385</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1483006338385</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -959,23 +975,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="831" y="0" width="1050" height="1056" extended-state="0" />
+    <frame x="1002" y="0" width="931" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20101011" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20238096" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.016233766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2391775" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2391775" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22847302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25541127" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25541127" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1091,83 +1107,17 @@
           <line>19</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/learn_python/python练习100题/077-循环列表.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/003_筛选数值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/002_利润计算.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/037-排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/001_排列组合.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/036-判断素数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_guide/write_style_code/a01_Structuring_Your_Project.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/004_计算天数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/005_排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_guide/donot_todo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/018_计算组值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/021_猴子吃桃.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1491,8 +1441,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/069-围圈.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5341426">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/070-字符串长度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/071-input-output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/072-创建一个列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/073-反向列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/074-两个列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/075-计算题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/076-指针函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/077-循环列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/078-找年龄最大.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python/python练习100题/079-字符串排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45697328">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
