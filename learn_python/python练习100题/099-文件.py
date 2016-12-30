@@ -11,16 +11,20 @@
 #      History:
 #=============================================================================
 from __future__ import print_function
+if __name__ == '__main__':
+    import string
+    fp = open('test1.txt')
+    a = fp.read()
+    fp.close()
 
-if __name__ == "__main__":
-    str1 = raw_input("input string:\n")
-    str2 = raw_input("input string:\n")
-    str3 = raw_input("input string:\n")
-    print(str1,str2,str3)
+    fp = open('test2.txt')
+    b = fp.read()
+    fp.close()
 
-    if str1 > str2 : str1,str2 = str2,str1
-    if str1 > str3 : str1,str3 = str3,str1
-    if str2 > str3 : str2,str3 = str3,str2
-
-    print("after being sorted.")
-    print(str1,str2,str3)
+    fp = open('test3.txt','w')
+    l = list(a + b)
+    l.sort()
+    s = ''
+    s = s.join(l)
+    fp.write(s)
+    fp.close()

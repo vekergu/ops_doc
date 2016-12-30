@@ -11,16 +11,26 @@
 #      History:
 #=============================================================================
 from __future__ import print_function
+'''
+题目：求0—7所能组成的奇数个数。
+'''
+import itertools
 
-if __name__ == "__main__":
-    str1 = raw_input("input string:\n")
-    str2 = raw_input("input string:\n")
-    str3 = raw_input("input string:\n")
-    print(str1,str2,str3)
+#去重  有序
+print(list(itertools.permutations([1,2,3,4],2)))
+#去重 无序
+print(list(itertools.combinations([1,2,3,4],2)))
 
-    if str1 > str2 : str1,str2 = str2,str1
-    if str1 > str3 : str1,str3 = str3,str1
-    if str2 > str3 : str2,str3 = str3,str2
+sum = 4
+s = 4
+for  j in range(2,9):
+    print(sum)
+    if j <= 2:
+        s *= 7
+    else:
+        s *= 8
+    sum += s
+print("sum = %d" %sum)
 
-    print("after being sorted.")
-    print(str1,str2,str3)
+print(len(list(itertools.permutations(range(0,8),7))))
+

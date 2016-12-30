@@ -11,16 +11,11 @@
 #      History:
 #=============================================================================
 from __future__ import print_function
+'''
+题目：809*??=800*??+9*??+1 其中??代表的两位数,8*??的结果为两位数，9*??的结果为3位数。求??代表的两位数，及809*??后的结果。
+'''
 
-if __name__ == "__main__":
-    str1 = raw_input("input string:\n")
-    str2 = raw_input("input string:\n")
-    str3 = raw_input("input string:\n")
-    print(str1,str2,str3)
+for i in range(100):
+    if 809*i == 800*i + 9*i and  8*i < 100 and 9*i > 99 and 9*i < 10000 :
+        print(i)
 
-    if str1 > str2 : str1,str2 = str2,str1
-    if str1 > str3 : str1,str3 = str3,str1
-    if str2 > str3 : str2,str3 = str3,str2
-
-    print("after being sorted.")
-    print(str1,str2,str3)

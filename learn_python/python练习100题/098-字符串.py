@@ -12,15 +12,12 @@
 #=============================================================================
 from __future__ import print_function
 
-if __name__ == "__main__":
-    str1 = raw_input("input string:\n")
-    str2 = raw_input("input string:\n")
-    str3 = raw_input("input string:\n")
-    print(str1,str2,str3)
 
-    if str1 > str2 : str1,str2 = str2,str1
-    if str1 > str3 : str1,str3 = str3,str1
-    if str2 > str3 : str2,str3 = str3,str2
-
-    print("after being sorted.")
-    print(str1,str2,str3)
+if __name__ == '__main__':
+    fp = open('test.txt','w')
+    string = raw_input('please input a string:\n')
+    string = string.upper()
+    fp.write(string)
+    fp = open('test.txt','r')
+    print(fp.read())
+    fp.close()

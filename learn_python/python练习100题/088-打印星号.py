@@ -11,16 +11,16 @@
 #      History:
 #=============================================================================
 from __future__ import print_function
+'''
+题目：读取7个数（1—50）的整数值，每读取一个值，程序打印出该值个数的＊。
+'''
 
-if __name__ == "__main__":
-    str1 = raw_input("input string:\n")
-    str2 = raw_input("input string:\n")
-    str3 = raw_input("input string:\n")
-    print(str1,str2,str3)
+if __name__ == '__main__':
+    n = 1
+    while n < 7:
+        a = int(raw_input('input a number:\n'))
+        while a < 1 or a > 50:
+            a = int(raw_input('input a number:\n'))
 
-    if str1 > str2 : str1,str2 = str2,str1
-    if str1 > str3 : str1,str3 = str3,str1
-    if str2 > str3 : str2,str3 = str3,str2
-
-    print("after being sorted.")
-    print(str1,str2,str3)
+            print(a * '*')
+            n += 1

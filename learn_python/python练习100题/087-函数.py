@@ -13,14 +13,15 @@
 from __future__ import print_function
 
 if __name__ == "__main__":
-    str1 = raw_input("input string:\n")
-    str2 = raw_input("input string:\n")
-    str3 = raw_input("input string:\n")
-    print(str1,str2,str3)
+    class Student:
+        x = 0
+        c = 0
+    def f(stu):
+        stu.x = 20
+        stu.c = "c"
+    a = Student()
+    a.x = 3
+    a.c = "a"
 
-    if str1 > str2 : str1,str2 = str2,str1
-    if str1 > str3 : str1,str3 = str3,str1
-    if str2 > str3 : str2,str3 = str3,str2
-
-    print("after being sorted.")
-    print(str1,str2,str3)
+    f(a)
+    print(a.x,a.c)

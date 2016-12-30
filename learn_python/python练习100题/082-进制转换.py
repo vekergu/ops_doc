@@ -11,16 +11,15 @@
 #      History:
 #=============================================================================
 from __future__ import print_function
+'''
+题目：八进制转换为十进制
+'''
 
 if __name__ == "__main__":
-    str1 = raw_input("input string:\n")
-    str2 = raw_input("input string:\n")
-    str3 = raw_input("input string:\n")
-    print(str1,str2,str3)
+    n = 0
+    p = raw_input("input a octal number:\n")
+    for i in range(len(p)):
+        n = n * 8 + ord(p[i]) - ord("0")
 
-    if str1 > str2 : str1,str2 = str2,str1
-    if str1 > str3 : str1,str3 = str3,str1
-    if str2 > str3 : str2,str3 = str3,str2
+    print(n)
 
-    print("after being sorted.")
-    print(str1,str2,str3)

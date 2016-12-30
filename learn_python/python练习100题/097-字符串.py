@@ -12,15 +12,13 @@
 #=============================================================================
 from __future__ import print_function
 
-if __name__ == "__main__":
-    str1 = raw_input("input string:\n")
-    str2 = raw_input("input string:\n")
-    str3 = raw_input("input string:\n")
-    print(str1,str2,str3)
-
-    if str1 > str2 : str1,str2 = str2,str1
-    if str1 > str3 : str1,str3 = str3,str1
-    if str2 > str3 : str2,str3 = str3,str2
-
-    print("after being sorted.")
-    print(str1,str2,str3)
+if __name__ == '__main__':
+    from sys import stdout
+    filename = raw_input('input a file name:\n')
+    fp = open(filename,"w")
+    ch = raw_input('input string:\n')
+    while ch != '#':
+        fp.write(ch)
+        stdout.write(ch)
+        ch = raw_input('')
+    fp.close()

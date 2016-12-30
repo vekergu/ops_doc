@@ -11,16 +11,22 @@
 #      History:
 #=============================================================================
 from __future__ import print_function
+'''
+题目：判断一个素数能被几个9整除。
+'''
 
 if __name__ == "__main__":
-    str1 = raw_input("input string:\n")
-    str2 = raw_input("input string:\n")
-    str3 = raw_input("input string:\n")
-    print(str1,str2,str3)
+    zi = int(raw_input('input a number:\n'))
+    n1 = 1
+    c9 = 1
+    m9 = 9
+    sum = 9
+    while n1 != 0 :
+        if sum % zi == 0:
+            n1 = 0
 
-    if str1 > str2 : str1,str2 = str2,str1
-    if str1 > str3 : str1,str3 = str3,str1
-    if str2 > str3 : str2,str3 = str3,str2
-
-    print("after being sorted.")
-    print(str1,str2,str3)
+        else:
+            m9 *= 10
+            sum += m9
+            c9 += 1
+    print('%d can be divided by %d 9' %(sum,c9))
