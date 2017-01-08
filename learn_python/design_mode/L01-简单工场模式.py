@@ -145,3 +145,6 @@ oper = OperationFactory().createOperate("+")
 oper.strNumberA = 1
 oper.strNumberB = 2
 print(oper.GetResult())
+
+#简单工厂模式
+#根据不同的选择   采用不同的类来进行处理
